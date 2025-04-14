@@ -1,14 +1,18 @@
 # Ember Jobs
 
-This data is updated weekly, with filled postings removed. Last updated: 04/09/2025
+This data is updated weekly, with filled postings removed. Last updated: 04/14/2025
 
 All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent postings, see: [Ember Jobs](https://algojobs.io/jobs/ember)
 
 | Posted | Title | Company | Salary | Location |
 | --- | --- | --- | --- | --- |
-| 04/08/2025 | [Software Engineer](https://algojobs.io/jobs/3715988) | [FreshBooks](https://algojobs.io/company/freshbooks/) | N/A | Toronto, ON, Canada |
+| 04/11/2025 | [Principal Full Stack Software Engineer](https://algojobs.io/jobs/3771604) | [OneTrust](https://algojobs.io/company/onetrust/) | $139K - $209K | Atlanta, Georgia |
+| 04/11/2025 | [Software Engineer BI](https://algojobs.io/jobs/3781462) | [NCR Atleos](https://algojobs.io/company/ncratleos/) | N/A | BELGRADE, SRB, Serbia |
+| 04/10/2025 | [Senior Software Development Engineer - Full Stack](https://algojobs.io/jobs/3756882) | [GoDaddy](https://algojobs.io/company/godaddy/) | N/A | Gurugram, Haryana, India |
+| 04/09/2025 | [Sr. Software Engineer - Integrations and Developer Experience](https://algojobs.io/jobs/3743775) | [Addepar](https://algojobs.io/company/addepar1/) | N/A | Remote, UK |
+| 04/09/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3740484) | [Inbox Health](https://algojobs.io/company/inboxhealth/) | N/A | New Haven, Connecticut, United States (Hybrid) |
+| 04/09/2025 | [IN_Senior Associate__Full Stack Developer-- Data and Analytics_Advisory_Pan India](https://algojobs.io/jobs/3748745) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Bengaluru Millenia, India |
 | 04/08/2025 | [Senior Principal Software Engineer - Front End](https://algojobs.io/jobs/3717777) | [OneTrust](https://algojobs.io/company/onetrust/) | N/A | Bengaluru, India |
-| 04/08/2025 | [Advanced Software Engineer](https://algojobs.io/jobs/3738655) | [General Dynamics Mission Systems, Inc](https://algojobs.io/company/gdms/) | $121K - $134K | United States |
 | 04/07/2025 | [Full Stack Software Engineer](https://algojobs.io/jobs/3716073) | [Narvar](https://algojobs.io/company/narvar/) | N/A | Remote- Canada |
 | 04/07/2025 | [Software Engineer - Full-Stack (Remote)](https://algojobs.io/jobs/3720773) | [Skedda](https://algojobs.io/company/skedda/) | $65K - $75K | Remote in Europe/Central European Timezone |
 | 04/07/2025 | [Software Developer, Full Stack](https://algojobs.io/jobs/3713720) | [Financeit](https://algojobs.io/company/financeit/) | N/A | Toronto, Ontario, Canada (Hybrid) |
@@ -30,7 +34,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 04/03/2025 | [IN_Senior Associate__Full Stack Developer-- Data and Analytics_Advisory_Bangalore](https://algojobs.io/jobs/3691213) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Bengaluru Millenia, India |
 | 04/03/2025 | [IN_Senior Associate__Full Stack Developer-- Data and Analytics_Advisory_Bangalore](https://algojobs.io/jobs/3691214) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Bengaluru Millenia, India |
 | 04/03/2025 | [IN-Senior Associate__Full Stack Developer-- Data and Analytics_Advisory_Pan India](https://algojobs.io/jobs/3691216) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Bengaluru Millenia, India |
-| 04/02/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3681439) | [General Dynamics Mission Systems, Inc](https://algojobs.io/company/gdms/) | $139K - $154K | United States |
 | 04/02/2025 | [Ruby Backend Software Engineer](https://algojobs.io/jobs/3668912) | [Dealfront](https://algojobs.io/company/dealfront/) | N/A | Germany (Remote) |
 | 04/01/2025 | [Staff Software Engineer – Ruby on Rails - Ticketing Systems](https://algojobs.io/jobs/3661206) | [Zendesk](https://algojobs.io/company/zendesk/) | N/A | Krakow, Poland |
 | 04/01/2025 | [Senior Software Engineer - Ruby on Rails - Ticketing Systems](https://algojobs.io/jobs/3661209) | [Zendesk](https://algojobs.io/company/zendesk/) | N/A | Krakow, Poland |
@@ -41,6 +44,7 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/26/2025 | [Senior Software Engineer - Reporting Platform](https://algojobs.io/jobs/3595519) | [Qualtrics](https://algojobs.io/company/qualtrics/) | $135K - $246K | Seattle, Washington,  United States |
 | 03/26/2025 | [Ruby on Rails Developer](https://algojobs.io/jobs/3595176) | [10Pearls - LATAM](https://algojobs.io/company/10pearls/) | N/A | LATAM |
 | 03/26/2025 | [Software Engineer II](https://algojobs.io/jobs/3596127) | [Alarm.com](https://algojobs.io/company/alarmcom/) | N/A | Tysons, Virginia, United States |
+| 03/25/2025 | [Software Engineer](https://algojobs.io/jobs/3583629) | [Alarm.com](https://algojobs.io/company/alarmcom/) | N/A | Tysons, Virginia, United States |
 | 03/25/2025 | [Senior Software Engineer](https://algojobs.io/jobs/3571603) | [Genesys](https://algojobs.io/company/genesys/) | N/A | Budapest (Flexible), Hungary |
 | 03/24/2025 | [Senior Software Engineer - Ruby on Rails](https://algojobs.io/jobs/3563568) | [Zendesk](https://algojobs.io/company/zendesk/) | N/A | Pune, India |
 | 03/24/2025 | [Staff Software Engineer - Ruby on Rails](https://algojobs.io/jobs/3563569) | [Zendesk](https://algojobs.io/company/zendesk/) | N/A | Pune, India |
@@ -62,7 +66,6 @@ All jobs are sourced from [algojobs.io](https://algojobs.io/). For more recent p
 | 03/04/2025 | [IN_Senior Associate_Full Stack Developer- Data and Analytics_Advisory_Bangalore](https://algojobs.io/jobs/3365518) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Bengaluru Millenia, India |
 | 03/01/2025 | [Senior Software Engineer (copy)](https://algojobs.io/jobs/3335868) | [Quartzy](https://algojobs.io/company/quartzy/) | $125K - $150K | Remote |
 | 02/27/2025 | [Senior Fullstack Engineer](https://algojobs.io/jobs/3308198) | [Citizen](https://algojobs.io/company/citizen-1/) | N/A | New York City |
-| 02/23/2025 | [Software Engineer Intern - Frontend](https://algojobs.io/jobs/3241685) | [ShopBack](https://algojobs.io/company/shopback-2/) | N/A | Ho Chi Minh, Vietnam (Hybrid) |
 | 02/23/2025 | [IN-Senior Associate__Full Stack Developer-- Data and Analytics_Advisory_Bangalore](https://algojobs.io/jobs/3248161) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Bengaluru Millenia, India |
 | 02/23/2025 | [IN_Senior Associate__Full Stack Developer-- Data and Analytics_Advisory_Bangalore](https://algojobs.io/jobs/3248166) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Bengaluru Millenia, India |
 | 02/23/2025 | [IN_Senior Associate__Full Stack Developer-- Data and Analytics_Advisory_Bangalore](https://algojobs.io/jobs/3248168) | [PricewaterhouseCoopers Service Delivery Center (Kolkata) Private Limited](https://algojobs.io/company/pwc/) | N/A | Bengaluru Millenia, India |
